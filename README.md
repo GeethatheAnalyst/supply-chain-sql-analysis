@@ -55,4 +55,11 @@ Writing Q7 two different ways (once with `LIMIT` and once with `RANK()`) was use
 - <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20SQL%20Project.sql">Main project file</a> — all 12 queries with answers and comments
 - <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain.sql">DDL file</a> — creates all 5 tables (Customer, Orders, OrderItem, Product, Supplier) with indexes 
 - <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20Data%20Constraints%20.sql">Foreign key constraints</a> — defines relationships between all tables 
-- <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20data.sql">Data file</a> — inserts all records into the database 
+- <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20data.sql">Data file</a> — inserts all records into the database
+
+> To run this project locally: execute `Supply chain.sql` first to create the schema, then `Supply chain Data Constraints.sql` to set up relationships, then `Supply chain data.sql` to load the data. Once that's done, open `Supply chain SQL Project.sql` to run the queries.
+---
+
+## Dataset
+
+Supply chain relational database provided as part of coursework at RRC Technologies, Thanjavur.
