@@ -49,7 +49,6 @@ Writing Q7 two different ways (once with `LIMIT` and once with `RANK()`) was use
 - UNION ALL
 
 ---
----
 
 ## Files in this repo
 
