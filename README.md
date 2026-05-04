@@ -52,8 +52,7 @@ Writing Q7 two different ways (once with `LIMIT` and once with `RANK()`) was use
 
 ## Files in this repo
 
-- <a herf="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20SQL%20Project.sql">Main project file</a> all 12 queries with answers and comments 
-- <a herf="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain.sql">DDL file</a> creates all 5 tables (Customer, Orders, OrderItem, Product, Supplier) with indexes 
-- <a herf="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20Data%20Constraints%20.sql">Foreign key constraints</a> defines relationships between all tables 
-- <a herf="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20data.sql">Data file</a> inserts all records into the database |
-
+- <a href="Mainhttps://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20SQL%20Project.sql">project file</a> — all 12 queries with answers and comments
+- <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain.sql">DDL file</a> — creates all 5 tables (Customer, Orders, OrderItem, Product, Supplier) with indexes 
+- <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20Data%20Constraints%20.sql">Foreign key constraints</a> — defines relationships between all tables 
+- <a href="https://github.com/GeethatheAnalyst/supply-chain-sql-analysis/blob/main/Supply%20chain%20data.sql">Data file</a> — inserts all records into the database 
